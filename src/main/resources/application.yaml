@@ -1,0 +1,8 @@
+amazonS3:
+  AWSAccessKeyId: AKIAJHD4MFAPAD3GETMQ
+  AWSSecretKey:   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
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 50MB
