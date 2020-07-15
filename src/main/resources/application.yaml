@@ -1,6 +1,6 @@
 amazonS3:
-  AWSAccessKeyId: AKIAJHD4MFAPAD3GETMQ
-  AWSSecretKey:   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
+  AWSAccessKeyId: AKIAIHBVN2TGNI775DWA
+  AWSSecretKey: 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
 
 spring:
   servlet:

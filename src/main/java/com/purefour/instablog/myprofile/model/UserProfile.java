@@ -16,6 +16,7 @@ public class UserProfile {
     private final UUID userProfileId;
     private final String username;
     private String userProfileImageLink; // S3 key
+    private String userInfo;
 
     public Optional<String> getUserProfileImageLink() {
         return Optional.ofNullable(userProfileImageLink);
